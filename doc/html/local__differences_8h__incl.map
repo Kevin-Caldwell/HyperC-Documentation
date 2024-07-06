@@ -1,0 +1,60 @@
+<map id="include/predictor/local_differences.h" name="include/predictor/local_differences.h">
+<area shape="rect" id="Node000001" title="Central and Directional Local Difference Functions and Definitions." alt="" coords="194,5,361,45"/>
+<area shape="rect" id="Node000002" href="$linear__algebra_8h.html" title="Skeleton File for Generin Vector Operations." alt="" coords="96,167,261,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="267,47,196,156,191,154,263,44"/>
+<area shape="rect" id="Node000009" href="$local__sum_8h.html" title="Functions for finding Local Sum." alt="" coords="276,93,439,119"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="299,44,337,82,334,85,295,47"/>
+<area shape="rect" id="Node000003" href="$constants_8h.html" title="A Global File for constants shared between modules." alt="" coords="97,387,261,412"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="181,192,181,372,176,372,176,192"/>
+<area shape="rect" id="Node000004" href="$math__functions_8h.html" title="Mathematical Helper Functions for use throughout code." alt="" coords="5,680,179,705"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="172,414,157,435,144,461,125,517,111,574,97,667,92,666,106,573,120,516,139,459,153,432,167,411"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="66,761,134,786"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="96,705,100,747,95,747,91,706"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="158,761,229,786"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="109,703,169,750,166,754,105,708"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="497,915,583,940"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="80,707,62,725,46,747,38,770,38,781,43,792,72,816,117,839,174,858,238,875,372,901,484,917,483,922,371,906,237,880,172,863,115,844,69,821,39,795,33,783,32,770,41,744,58,721,76,704"/>
+<area shape="rect" id="Node000008" href="$typedefs_8h.html" title="A file containing univerally used typedefs." alt="" coords="298,841,457,867"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="83,707,68,726,54,748,48,771,50,782,55,792,70,803,91,813,148,829,217,840,285,846,284,851,216,845,147,834,89,818,67,808,51,795,45,784,43,771,49,746,63,722,78,704"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="405,864,502,907,500,911,402,869"/>
+<area shape="rect" id="Node000010" href="$sample__representative_8h.html" title="A collection of Sample representative calculation functions." alt="" coords="285,167,469,192"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="363,118,373,153,368,154,358,120"/>
+<area shape="rect" id="Node000011" href="$locale__buffer_8h.html" title="Contains Pixel Buffer Functions." alt="" coords="307,240,448,265"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="380,192,380,226,375,226,375,192"/>
+<area shape="rect" id="Node000012" href="$image_8h.html" title=" " alt="" coords="328,313,427,339"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="380,266,380,300,375,300,375,266"/>
+<area shape="poly" id="edge13_Node000012_Node000003" title=" " alt="" coords="346,341,225,384,223,379,345,336"/>
+<area shape="rect" id="Node000013" href="$uhi__io_8h.html" title="Uncompressed Hyperspectral Image file IO for storing pixel values as 16&#45;bit values." alt="" coords="489,387,593,412"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="405,336,503,379,501,384,403,341"/>
+<area shape="poly" id="edge35_Node000013_Node000004" title=" " alt="" coords="489,406,414,413,329,424,251,440,220,450,199,462,178,481,165,499,150,537,140,581,122,633,106,669,101,667,118,631,135,580,144,536,160,497,174,477,196,458,218,445,249,435,328,418,414,407,489,401"/>
+<area shape="poly" id="edge16_Node000013_Node000006" title=" " alt="" coords="489,404,408,411,363,420,319,432,280,451,248,475,226,506,221,524,219,545,219,621,213,690,202,748,197,747,208,689,213,621,213,545,215,523,222,504,244,471,277,446,317,427,362,414,407,406,489,398"/>
+<area shape="poly" id="edge15_Node000013_Node000007" title=" " alt="" coords="594,405,657,419,722,444,750,463,773,485,789,512,795,544,795,775,793,826,785,847,767,869,729,896,684,914,639,924,597,929,597,923,638,919,683,909,726,892,764,865,780,844,787,825,789,775,789,545,784,514,769,488,747,467,719,449,655,424,593,410"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="637,607,704,632"/>
+<area shape="poly" id="edge17_Node000013_Node000014" title=" " alt="" coords="573,410,609,429,642,458,661,491,671,528,675,563,675,593,670,593,670,564,666,529,656,493,638,462,606,433,570,414"/>
+<area shape="rect" id="Node000015" href="$logs_8h.html" title="Logging Execution and Errors in Code." alt="" coords="535,460,627,485"/>
+<area shape="poly" id="edge18_Node000013_Node000015" title=" " alt="" coords="550,411,570,447,566,449,546,414"/>
+<area shape="rect" id="Node000016" href="$file___i_o_8h.html" title="Abstract Functions for File IO." alt="" coords="489,533,564,559"/>
+<area shape="poly" id="edge19_Node000015_Node000016" title=" " alt="" coords="574,487,546,524,542,521,570,484"/>
+<area shape="rect" id="Node000021" title=" " alt="" coords="682,841,753,867"/>
+<area shape="poly" id="edge34_Node000015_Node000021" title=" " alt="" coords="604,483,633,503,666,530,697,565,719,606,731,667,734,729,730,785,725,828,719,827,725,785,728,729,726,668,713,608,693,568,663,534,630,507,601,488"/>
+<area shape="rect" id="Node000023" title=" " alt="" coords="588,533,652,559"/>
+<area shape="poly" id="edge33_Node000015_Node000023" title=" " alt="" coords="590,484,610,520,605,523,585,487"/>
+<area shape="poly" id="edge20_Node000016_Node000007" title=" " alt="" coords="541,557,559,579,577,605,603,655,622,697,628,740,620,794,608,826,593,856,560,905,556,902,588,854,603,824,615,793,623,740,617,698,599,657,572,608,555,582,537,561"/>
+<area shape="poly" id="edge22_Node000016_Node000014" title=" " alt="" coords="551,556,636,598,634,603,549,561"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="488,607,563,632"/>
+<area shape="poly" id="edge21_Node000016_Node000017" title=" " alt="" coords="529,559,528,593,523,593,524,559"/>
+<area shape="rect" id="Node000018" href="$global__constants_8h.html" title="Contains Application&#45;Level Constants." alt="" coords="253,607,464,632"/>
+<area shape="poly" id="edge23_Node000016_Node000018" title=" " alt="" coords="501,561,400,604,398,599,499,556"/>
+<area shape="poly" id="edge24_Node000018_Node000008" title=" " alt="" coords="340,634,315,654,294,681,283,712,278,737,282,763,294,792,313,815,338,833,335,837,310,819,290,795,277,764,273,737,277,710,290,679,311,650,336,630"/>
+<area shape="rect" id="Node000019" href="$load__constants_8h.html" title="Abstractions for Loading .CONST files." alt="" coords="303,680,502,705"/>
+<area shape="poly" id="edge25_Node000018_Node000019" title=" " alt="" coords="368,631,391,667,386,670,364,634"/>
+<area shape="poly" id="edge26_Node000019_Node000006" title=" " alt="" coords="373,708,238,758,236,753,371,703"/>
+<area shape="rect" id="Node000020" href="$hash__table_8h.html" title=" " alt="" coords="475,761,605,786"/>
+<area shape="poly" id="edge27_Node000019_Node000020" title=" " alt="" coords="424,703,509,752,507,756,422,708"/>
+<area shape="rect" id="Node000022" href="$predictor__constants_8h.html" title="Contains the Struct and relevant functions for Creating and Accessing Predictor Constants." alt="" coords="304,753,451,793"/>
+<area shape="poly" id="edge31_Node000019_Node000022" title=" " alt="" coords="401,706,390,741,385,740,396,705"/>
+<area shape="poly" id="edge28_Node000020_Node000007" title=" " alt="" coords="543,786,543,901,537,901,537,786"/>
+<area shape="poly" id="edge30_Node000020_Node000008" title=" " alt="" coords="517,788,414,838,412,833,515,784"/>
+<area shape="poly" id="edge29_Node000020_Node000021" title=" " alt="" coords="567,784,680,833,678,838,565,788"/>
+<area shape="poly" id="edge32_Node000022_Node000008" title=" " alt="" coords="380,794,380,827,375,827,375,794"/>
+</map>
